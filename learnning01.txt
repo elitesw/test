@@ -1,5 +1,2 @@
-first row:
 first create file.
-Modify the row text. (adding text).
-learning git is easy.
-write one row strings more.
+adding text.
